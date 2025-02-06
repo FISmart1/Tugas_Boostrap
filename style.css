@@ -1,0 +1,34 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+
+
+
+
+.row {
+  margin-top: 4%;
+}
+
+.col-md-2 {
+
+  color: white;
+  padding: 10px 20px;
+  width: 200px;
+  border-radius: 10px;
+
+}
+
+
+#projects {
+  margin-top: -10%;
+}
